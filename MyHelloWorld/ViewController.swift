@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  MyHelloWorld
 //
-//  Created by user158808 on 8/31/19.
-//  Copyright © 2019 user158808. All rights reserved.
+//  Created by Evan Erickson on 9/2/19.
+//  Copyright © 2019 Evan Erickson. All rights reserved.
 //
 
 import UIKit
